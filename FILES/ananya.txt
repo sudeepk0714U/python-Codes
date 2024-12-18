@@ -1,0 +1,3 @@
+Hello ! I am learning Python.
+This is my first file in Python.
+python  is used for AL and Machine Learning

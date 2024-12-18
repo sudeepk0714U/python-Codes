@@ -1,0 +1,15 @@
+Nested loops :
+    Nested loops in python are use to perform operations on multi-dimenstional data
+    such as printing a matrix or printing a star pattern etc
+    I involves using one loop in another loop
+    eg : 
+        for i in range(0,5):
+            for j in range(0,i):
+                print("* ")
+            print()
+    output:
+        this code prints right triangle as shown below 
+                          * 
+                          * * 
+                          * * * 
+                          * * * * 

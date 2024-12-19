@@ -1,2 +1,0 @@
-Hello ! I am learning Python.
-This is my first file in Python.

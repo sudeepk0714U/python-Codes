@@ -41,8 +41,7 @@ def detCycle(graph1,vis,curr,parent):
         if vis[i] and parent != i:
             return True
         elif not vis[i]:
-            if(detCycle(graph1,vis,i,curr)):
-                return True
+            detCycle(graph1,vis,i,curr)
     return False
 
 vis =[False]*6
